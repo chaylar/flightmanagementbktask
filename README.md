@@ -1,3 +1,7 @@
+# To Run Project
+mvn clean install  
+mvn spring-boot:run
+
 # Services List
 
 Flight Services : 
