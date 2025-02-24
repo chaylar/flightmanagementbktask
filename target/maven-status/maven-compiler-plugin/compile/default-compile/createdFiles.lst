@@ -1,0 +1,16 @@
+com\flighmanapp\flightmanagementapp\controller\SeatController.class
+com\flighmanapp\flightmanagementapp\service\FlightServiceImp.class
+com\flighmanapp\flightmanagementapp\model\Passenger.class
+com\flighmanapp\flightmanagementapp\controller\FlightController.class
+com\flighmanapp\flightmanagementapp\repository\FlightRepository.class
+com\flighmanapp\flightmanagementapp\FlightManagementAppApplication.class
+com\flighmanapp\flightmanagementapp\service\FlightService.class
+com\flighmanapp\flightmanagementapp\repository\SeatRepository.class
+com\flighmanapp\flightmanagementapp\controller\PassengerController.class
+com\flighmanapp\flightmanagementapp\model\Seat.class
+com\flighmanapp\flightmanagementapp\service\SeatServiceImp.class
+com\flighmanapp\flightmanagementapp\model\Flight.class
+com\flighmanapp\flightmanagementapp\service\PassengerServiceImp.class
+com\flighmanapp\flightmanagementapp\service\PassengerService.class
+com\flighmanapp\flightmanagementapp\repository\PassengerRepository.class
+com\flighmanapp\flightmanagementapp\service\SeatService.class
